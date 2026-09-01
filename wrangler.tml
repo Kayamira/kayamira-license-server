@@ -1,0 +1,8 @@
+name = "kayamira-license-server"
+main = "worker.js"
+compatibility_date = "2026-09-01"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "kayamira-licences"
+database_id = "d175fd41-3bdf-4a8d-9fd8-1265944f09a1"
