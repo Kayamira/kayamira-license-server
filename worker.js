@@ -216,3 +216,4 @@ function esc(s){return String(s).replaceAll("&","&amp;").replaceAll("<","&lt;").
 if(T)login();
 </script></body></html>`;
 }
+//Kayamira Licence Server deployment
